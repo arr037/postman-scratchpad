@@ -1,6 +1,9 @@
 # postman-scratchpad
 Postman version 11.37.5
 
+[download patched file](https://github.com/arr037/postman-scratchpad/releases/download/p-11.37.5/newapp.asar)
+
+
 ![image](https://github.com/user-attachments/assets/ba8aaf9a-9488-461c-8db9-96719878c7ee)
 
 Pre steps:
